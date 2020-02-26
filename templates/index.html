@@ -2,13 +2,14 @@
 
 {% block content %}
 <p>{{ movies|length }} Titles</p>
-
+{%if current_user.is_authenticated%}}
 <!--表单-->
 <form action="/" method="post">
     电影名：<input type="text" name="title" autocomplete="off" required>
     年份： <input type="text" name="year" autocomplete="off" required>
     <input type="submit" class="btn" name="submit" value="添加">
 </form>
+{%endif%}
 <ul class="movie-list">
     {% for movie in movies %}
     <li>
@@ -19,6 +20,8 @@
                target="_blank"
                title="在IMDb中查找此电影">百度视频</a>
         </span>
+        {%if current_user.is_authenticated%}}
+
         <span class="float-right">
             <a class="btn"
                href="{{url_for('edit',movie_id=movie.id)}}"
@@ -31,6 +34,7 @@
             </form>
         </span>
     </li>
+    {%endif%}
     {% endfor %}
 </ul>
 

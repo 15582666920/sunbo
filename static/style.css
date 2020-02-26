@@ -1,5 +1,5 @@
 body{
-    max-width: 600px;
+    max-width: 800px;
     margin: auto;
     font-size:14px;
     font-family: Arial, Helvetica, sans-serif;
@@ -44,6 +44,8 @@ nav ul{
 }
 nav li {
     float: left;
+    display: flex;
+    align-items: center
 }
 nav li a{
     display: block;
@@ -57,6 +59,8 @@ nav li a:hover{
 }
 .float-right{
     float: right;
+    display: inline;
+    margin: 2px 5px;
 }
 .vbd{
     font-size: 12px;
