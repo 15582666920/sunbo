@@ -1,7 +1,7 @@
 import unittest
 
-from app import app, db, Movie, User
-
+from sunbo import app,db
+from sunbo.models import User,Movie
 
 class WatchlistTestCase(unittest.TestCase):
     def setUp(self):
