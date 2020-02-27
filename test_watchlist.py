@@ -43,6 +43,7 @@ class WatchlistTestCase(unittest.TestCase):
         self.assertIn('返回首页', data)
         self.assertEqual(response.status_code, 404)  # 判断响应状态码
 
+
     # 测试主页
     def test_index_page(self):
         response = self.client.get('/')
@@ -64,6 +65,17 @@ class WatchlistTestCase(unittest.TestCase):
         response = self.client.post('/movie/delete/1',follow_redirects=True)
         data = response.get_data(as_text=True)
         self.assertIn('删除数据成功',data)
+
+    #编辑
+    def test_edit(self):
+        self.login()
+        response=self.client.post('/movie/edit/1', data=dict(
+            title='test',
+            year='2020'
+        ), follow_redirects=True)
+
+        data = response.get_data(as_text=True)
+        self.assertIn('电影信息已经更新', data)
 
 
 
