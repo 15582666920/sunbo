@@ -2,32 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63fd4653-52f9-4f5c-b918-35f628a68ff8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.flaskenv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sunbo/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sunbo/commands.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sunbo/error.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sunbo/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sunbo/templates/error/400.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sunbo/templates/error/500.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sunbo/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sunbo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sunbo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/Lib/site-packages/werkzeug/debug/shared/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/env/Lib/site-packages/werkzeug/debug/shared/jquery.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sunbo/static/images/1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sunbo/static/images/2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sunbo/static/images/4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sunbo/static/images/5.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/sunbo/static/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/sunbo/templates/error/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/sunbo/templates/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/edit.html" beforeDir="false" afterPath="$PROJECT_DIR$/sunbo/templates/edit.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/sunbo/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/sunbo/templates/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/settings.html" beforeDir="false" afterPath="$PROJECT_DIR$/sunbo/templates/settings.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_watchlist.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_watchlist.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -68,15 +45,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sunbo/error.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="10" selection-start-column="10" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sunbo/models.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="133">
@@ -100,13 +68,18 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sunbo/templates/base.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="213">
-              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+            <state relative-caret-position="232">
+              <caret line="36" column="54" lean-forward="true" selection-start-line="36" selection-start-column="54" selection-end-line="36" selection-end-column="54" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sunbo/templates/edit.html">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -119,6 +92,16 @@
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sunbo/templates/settings.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sunbo/templates/login.html">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -149,18 +132,6 @@
               <filtering enabled="true">
                 <filter text="" />
               </filtering>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sunbo/__init__.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="494">
-              <caret line="26" column="14" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
-              <folding>
-                <element signature="e#0#9#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -235,17 +206,6 @@
               <item name="sunbo" type="b2602c69:ProjectViewProjectNode" />
               <item name="sunbo" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="sunbo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sunbo" type="462c0819:PsiDirectoryNode" />
-              <item name="sunbo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sunbo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sunbo" type="462c0819:PsiDirectoryNode" />
-              <item name="sunbo" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -278,9 +238,9 @@
       <recent name="C:\Users\Administrator\Desktop\sunbo\static\images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\sunbo" />
       <recent name="C:\Users\Administrator\Desktop\sunbo\sunbo" />
       <recent name="C:\Users\Administrator\Desktop\sunbo\static" />
-      <recent name="C:\Users\Administrator\Desktop\sunbo" />
       <recent name="C:\Users\Administrator\Desktop\sunbo\static\images" />
     </key>
   </component>
@@ -363,12 +323,12 @@
       <workItem from="1582775412669" duration="883000" />
       <workItem from="1582781115037" duration="34000" />
       <workItem from="1582781188695" duration="92000" />
-      <workItem from="1582782078583" duration="2161000" />
+      <workItem from="1582782078583" duration="2442000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42072000" />
+    <option name="totallyTimeSpent" value="42353000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -387,7 +347,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" weight="0.32954547" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.49147728" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.7869318" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.328125" />
       <window_info anchor="bottom" id="Database Console" order="13" weight="0.24431819" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -454,11 +414,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sunbo/templates/login.html" />
     <entry file="file://$PROJECT_DIR$/test_watchlist(1).py" />
     <entry file="file://$PROJECT_DIR$/listwachlist.py" />
-    <entry file="file://$PROJECT_DIR$/sunbo/templates/settings.html" />
-    <entry file="file://$PROJECT_DIR$/sunbo/templates/edit.html" />
     <entry file="file://$PROJECT_DIR$/sunbo/static/style.css" />
     <entry file="file://$PROJECT_DIR$/sunbo/templates/500.html" />
     <entry file="file://$PROJECT_DIR$/sunbo/templates/400.html" />
@@ -550,6 +507,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/sunbo/templates/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="36" column="54" lean-forward="true" selection-start-line="36" selection-start-column="54" selection-end-line="36" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sunbo/templates/edit.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/sunbo/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="589">
@@ -560,12 +527,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sunbo/templates/base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/sunbo/templates/settings.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sunbo/templates/login.html">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
