@@ -1,0 +1,12 @@
+{% extends 'base.html' %}
+{% block content %}
+
+<h1>{{ariticles.title}}</h1>
+<h3>{{ariticles.content}}</h3>
+<span class="float-right">
+    <a class="btn" href="{{ url_for('edit',ariticles_id=ariticles.id) }}">编辑该博客</a>
+</span>
+<span class="float-right">
+    <a class="btn" href="{{url_for('index')}}">返回首页</a>
+</span>
+{% endblock %}
