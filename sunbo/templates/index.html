@@ -2,13 +2,44 @@
 
 {% block content %}
 <p>{{ ariticles|length }} Titles</p>
-{# 表单 #}
 {% if current_user.is_authenticated %}
-<form method="POST">
-    标题 <input type="text" name="title" autocomplete="off" required>
-    内容 <input type="text" name="content" autocomplete="off" required>
-    <input type="submit" class="btn" name="submit" value="添加">
-</form>
+{# 模态框 表单 #}
+
+<div>
+    <!-- Button trigger modal -->
+    <div style="width: 200px" >
+    <button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal" style="font-size: 15px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;
+" >
+        有什么新鲜事想告诉大家? <input type="text" style="border-radius:15px" >
+    </button>
+    </div>
+    <!-- Modal -->
+    <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span
+                            aria-hidden="true">&times;</span>
+                    </button>
+                    <h4 class="modal-title" id="myModalLabel">记录你的生活</h4>
+                </div>
+                <div class="modal-body">
+                    <form method="POST">
+                        标题 <input type="text" name="title" autocomplete="off" required>
+                        <input class="editor" name="content" id="content">
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                            <input type="submit" class="btn btn-primary" name="submit" value="保存">
+                        </div>
+
+                    </form>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+
 {% endif %}
 <ul class="movie-list">
     {% for ariticle in ariticles %}

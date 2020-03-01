@@ -2,7 +2,7 @@
 {% block content %}
 
 <h1>{{ariticles.title}}</h1>
-<h3>{{ariticles.content}}</h3>
+{{ariticles.content}}
 <span class="float-right">
     <a class="btn" href="{{ url_for('edit',ariticles_id=ariticles.id) }}">编辑该博客</a>
 </span>

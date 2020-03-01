@@ -1,9 +1,15 @@
 {% extends 'base.html' %}
 {% block content %}
-    <h3>博客编辑页面</h3>
-    <form action="" method="post">
-        标题 <input type="text" name="title" autocomplete="off" required>
-         <input class="editor" name="content" id="content">
-        <input type="submit" class="btn" name="submit" value="更新">
-    </form>
+<h3>博客编辑页面</h3>
+<form action="" method="post">
+    标题 <input type="text" name="title" autocomplete="off" required>
+    <input class="editor" name="content" id="content">
+    <span class="float-right">
+   <input type="submit" class="btn" name="submit" value="更新">
+</span>
+    <span class="float-right">
+    <a class="btn" href="{{url_for('index')}}">返回首页</a>
+</span>
+</form>
+
 {% endblock %}

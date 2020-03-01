@@ -2,86 +2,391 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63fd4653-52f9-4f5c-b918-35f628a68ff8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/sunbo/static/tinymce/changelog.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sunbo/static/tinymce/js/tinymce/jquery.tinymce.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sunbo/static/tinymce/js/tinymce/langs/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sunbo/static/tinymce/js/tinymce/license.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sunbo/static/tinymce/js/tinymce/plugins/advlist/plugin.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sunbo/static/tinymce/js/tinymce/plugins/anchor/plugin.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sunbo/static/tinymce/js/tinymce/plugins/autolink/plugin.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sunbo/static/tinymce/js/tinymce/plugins/autoresize/plugin.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sunbo/static/tinymce/js/tinymce/plugins/autosave/plugin.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sunbo/static/tinymce/js/tinymce/plugins/bbcode/plugin.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sunbo/static/tinymce/js/tinymce/plugins/charmap/plugin.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sunbo/static/tinymce/js/tinymce/plugins/code/plugin.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sunbo/static/tinymce/js/tinymce/plugins/codesample/plugin.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sunbo/static/tinymce/js/tinymce/plugins/colorpicker/plugin.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sunbo/static/tinymce/js/tinymce/plugins/contextmenu/plugin.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sunbo/static/tinymce/js/tinymce/plugins/directionality/plugin.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sunbo/static/tinymce/js/tinymce/plugins/emoticons/js/emojis.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sunbo/static/tinymce/js/tinymce/plugins/emoticons/js/emojis.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sunbo/static/tinymce/js/tinymce/plugins/emoticons/plugin.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sunbo/static/tinymce/js/tinymce/plugins/fullpage/plugin.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sunbo/static/tinymce/js/tinymce/plugins/fullscreen/plugin.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sunbo/static/tinymce/js/tinymce/plugins/help/plugin.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sunbo/static/tinymce/js/tinymce/plugins/hr/plugin.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sunbo/static/tinymce/js/tinymce/plugins/image/plugin.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sunbo/static/tinymce/js/tinymce/plugins/imagetools/plugin.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sunbo/static/tinymce/js/tinymce/plugins/importcss/plugin.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sunbo/static/tinymce/js/tinymce/plugins/insertdatetime/plugin.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sunbo/static/tinymce/js/tinymce/plugins/legacyoutput/plugin.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sunbo/static/tinymce/js/tinymce/plugins/link/plugin.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sunbo/static/tinymce/js/tinymce/plugins/lists/plugin.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sunbo/static/tinymce/js/tinymce/plugins/media/plugin.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sunbo/static/tinymce/js/tinymce/plugins/nonbreaking/plugin.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sunbo/static/tinymce/js/tinymce/plugins/noneditable/plugin.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sunbo/static/tinymce/js/tinymce/plugins/pagebreak/plugin.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sunbo/static/tinymce/js/tinymce/plugins/paste/plugin.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sunbo/static/tinymce/js/tinymce/plugins/preview/plugin.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sunbo/static/tinymce/js/tinymce/plugins/print/plugin.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sunbo/static/tinymce/js/tinymce/plugins/quickbars/plugin.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sunbo/static/tinymce/js/tinymce/plugins/save/plugin.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sunbo/static/tinymce/js/tinymce/plugins/searchreplace/plugin.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sunbo/static/tinymce/js/tinymce/plugins/spellchecker/plugin.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sunbo/static/tinymce/js/tinymce/plugins/tabfocus/plugin.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sunbo/static/tinymce/js/tinymce/plugins/table/plugin.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sunbo/static/tinymce/js/tinymce/plugins/template/plugin.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sunbo/static/tinymce/js/tinymce/plugins/textcolor/plugin.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sunbo/static/tinymce/js/tinymce/plugins/textpattern/plugin.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sunbo/static/tinymce/js/tinymce/plugins/toc/plugin.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sunbo/static/tinymce/js/tinymce/plugins/visualblocks/plugin.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sunbo/static/tinymce/js/tinymce/plugins/visualchars/plugin.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sunbo/static/tinymce/js/tinymce/plugins/wordcount/plugin.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sunbo/static/tinymce/js/tinymce/skins/content/dark/content.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sunbo/static/tinymce/js/tinymce/skins/content/default/content.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sunbo/static/tinymce/js/tinymce/skins/content/document/content.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sunbo/static/tinymce/js/tinymce/skins/content/writer/content.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sunbo/static/tinymce/js/tinymce/skins/ui/oxide-dark/content.inline.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sunbo/static/tinymce/js/tinymce/skins/ui/oxide-dark/content.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sunbo/static/tinymce/js/tinymce/skins/ui/oxide-dark/content.mobile.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sunbo/static/tinymce/js/tinymce/skins/ui/oxide-dark/fonts/tinymce-mobile.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sunbo/static/tinymce/js/tinymce/skins/ui/oxide-dark/skin.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sunbo/static/tinymce/js/tinymce/skins/ui/oxide-dark/skin.mobile.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sunbo/static/tinymce/js/tinymce/skins/ui/oxide/content.inline.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sunbo/static/tinymce/js/tinymce/skins/ui/oxide/content.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sunbo/static/tinymce/js/tinymce/skins/ui/oxide/content.mobile.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sunbo/static/tinymce/js/tinymce/skins/ui/oxide/fonts/tinymce-mobile.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sunbo/static/tinymce/js/tinymce/skins/ui/oxide/skin.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sunbo/static/tinymce/js/tinymce/skins/ui/oxide/skin.mobile.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sunbo/static/tinymce/js/tinymce/themes/mobile/theme.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sunbo/static/tinymce/js/tinymce/themes/silver/theme.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sunbo/static/tinymce/js/tinymce/tinymce.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sunbo/templates/detail.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/.hound.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/CNAME" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/CONTRIBUTING.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/Gemfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/Gemfile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/Gruntfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/ISSUE_TEMPLATE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/_config.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/dist/css/bootstrap-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/dist/css/bootstrap-theme.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/dist/css/bootstrap-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/dist/css/bootstrap-theme.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/dist/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/dist/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/dist/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/dist/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/dist/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/dist/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/dist/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/dist/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/dist/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/dist/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/dist/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/dist/js/npm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/_data/browser-bugs.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/_data/browser-features.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/_data/core-team.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/_data/glyphicons.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/_data/sass-team.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/_data/showcase.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/_data/translations.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/_includes/ads.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/_includes/components/alerts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/_includes/components/badges.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/_includes/components/breadcrumbs.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/_includes/components/button-dropdowns.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/_includes/components/button-groups.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/_includes/components/dropdowns.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/_includes/components/glyphicons.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/_includes/components/input-groups.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/_includes/components/jumbotron.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/_includes/components/labels.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/_includes/components/list-group.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/_includes/components/media.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/_includes/components/navbar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/_includes/components/navs.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/_includes/components/page-header.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/_includes/components/pagination.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/_includes/components/panels.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/_includes/components/progress-bars.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/_includes/components/responsive-embed.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/_includes/components/thumbnails.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/_includes/components/wells.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/_includes/css/buttons.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/_includes/css/code.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/_includes/css/forms.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/_includes/css/grid.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/_includes/css/helpers.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/_includes/css/images.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/_includes/css/less.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/_includes/css/overview.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/_includes/css/responsive-utilities.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/_includes/css/sass.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/_includes/css/tables.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/_includes/css/type.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/_includes/customizer-variables.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/_includes/footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/_includes/getting-started/accessibility.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/_includes/getting-started/browser-device-support.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/_includes/getting-started/community.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/_includes/getting-started/disabling-responsiveness.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/_includes/getting-started/download.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/_includes/getting-started/examples.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/_includes/getting-started/grunt.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/_includes/getting-started/license.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/_includes/getting-started/template.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/_includes/getting-started/third-party-support.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/_includes/getting-started/tools.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/_includes/getting-started/translations.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/_includes/getting-started/whats-included.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/_includes/header.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/_includes/js/affix.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/_includes/js/alerts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/_includes/js/buttons.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/_includes/js/carousel.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/_includes/js/collapse.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/_includes/js/dropdowns.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/_includes/js/modal.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/_includes/js/overview.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/_includes/js/popovers.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/_includes/js/scrollspy.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/_includes/js/tabs.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/_includes/js/tooltips.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/_includes/js/transitions.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/_includes/nav/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/_includes/nav/components.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/_includes/nav/css.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/_includes/nav/customize.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/_includes/nav/getting-started.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/_includes/nav/javascript.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/_includes/nav/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/_includes/nav/migration.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/_layouts/default.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/_layouts/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/_plugins/bridge.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/_plugins/bugify.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/_pug/customizer-nav.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/_pug/customizer-variables.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/apple-touch-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/assets/brand/bootstrap-outline.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/assets/brand/bootstrap-punchout.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/assets/brand/bootstrap-solid.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/assets/css/docs.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/assets/css/docs.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/assets/css/ie10-viewport-bug-workaround.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/assets/css/src/docs.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/assets/css/src/pygments-manni.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/assets/flash/ZeroClipboard.swf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/assets/img/components.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/assets/img/devices.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/assets/img/expo-lyft.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/assets/img/expo-newsweek.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/assets/img/expo-riot.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/assets/img/expo-vogue.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/assets/img/sass-less.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/assets/js/customize.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/assets/js/docs.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/assets/js/ie-emulation-modes-warning.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/assets/js/ie10-viewport-bug-workaround.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/assets/js/ie8-responsive-file-warning.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/assets/js/raw-files.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/assets/js/src/application.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/assets/js/src/customizer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/assets/js/vendor/Blob.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/assets/js/vendor/FileSaver.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/assets/js/vendor/ZeroClipboard.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/assets/js/vendor/anchor.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/assets/js/vendor/autoprefixer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/assets/js/vendor/holder.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/assets/js/vendor/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/assets/js/vendor/jszip.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/assets/js/vendor/less.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/assets/js/vendor/uglify.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/browser-bugs.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/components.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/css.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/customize.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/dist/css/bootstrap-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/dist/css/bootstrap-theme.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/dist/css/bootstrap-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/dist/css/bootstrap-theme.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/dist/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/dist/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/dist/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/dist/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/dist/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/dist/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/dist/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/dist/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/dist/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/dist/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/dist/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/dist/js/npm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/examples/blog/blog.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/examples/blog/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/examples/carousel/carousel.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/examples/carousel/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/examples/cover/cover.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/examples/cover/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/examples/dashboard/dashboard.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/examples/dashboard/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/examples/grid/grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/examples/grid/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/examples/jumbotron-narrow/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/examples/jumbotron-narrow/jumbotron-narrow.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/examples/jumbotron/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/examples/jumbotron/jumbotron.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/examples/justified-nav/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/examples/justified-nav/justified-nav.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/examples/navbar-fixed-top/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/examples/navbar-fixed-top/navbar-fixed-top.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/examples/navbar-static-top/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/examples/navbar-static-top/navbar-static-top.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/examples/navbar/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/examples/navbar/navbar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/examples/non-responsive/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/examples/non-responsive/non-responsive.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/examples/offcanvas/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/examples/offcanvas/offcanvas.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/examples/offcanvas/offcanvas.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/examples/screenshots/blog.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/examples/screenshots/carousel.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/examples/screenshots/cover.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/examples/screenshots/dashboard.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/examples/screenshots/equal-height-columns.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/examples/screenshots/grid.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/examples/screenshots/jumbotron-narrow.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/examples/screenshots/jumbotron.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/examples/screenshots/justified-nav.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/examples/screenshots/navbar-fixed.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/examples/screenshots/navbar-static.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/examples/screenshots/navbar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/examples/screenshots/non-responsive.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/examples/screenshots/offcanvas.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/examples/screenshots/sign-in.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/examples/screenshots/starter-template.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/examples/screenshots/sticky-footer-navbar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/examples/screenshots/sticky-footer.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/examples/screenshots/theme.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/examples/signin/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/examples/signin/signin.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/examples/starter-template/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/examples/starter-template/starter-template.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/examples/sticky-footer-navbar/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/examples/sticky-footer-navbar/sticky-footer-navbar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/examples/sticky-footer/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/examples/sticky-footer/sticky-footer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/examples/theme/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/examples/theme/theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/examples/tooltip-viewport/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/examples/tooltip-viewport/tooltip-viewport.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/examples/tooltip-viewport/tooltip-viewport.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/getting-started.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/javascript.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/migration.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/docs/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/grunt/.jshintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/grunt/bs-commonjs-generator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/grunt/bs-glyphicons-data-generator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/grunt/bs-lessdoc-parser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/grunt/bs-raw-files-generator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/grunt/change-version.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/grunt/configBridge.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/grunt/npm-shrinkwrap.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/grunt/sauce_browsers.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/js/.jscsrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/js/.jshintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/js/affix.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/js/alert.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/js/button.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/js/carousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/js/collapse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/js/dropdown.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/js/modal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/js/popover.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/js/scrollspy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/js/tab.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/js/tests/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/js/tests/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/js/tests/unit/.jshintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/js/tests/unit/affix.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/js/tests/unit/alert.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/js/tests/unit/button.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/js/tests/unit/carousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/js/tests/unit/collapse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/js/tests/unit/dropdown.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/js/tests/unit/modal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/js/tests/unit/phantom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/js/tests/unit/popover.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/js/tests/unit/scrollspy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/js/tests/unit/tab.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/js/tests/unit/tooltip.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/js/tests/vendor/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/js/tests/vendor/qunit.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/js/tests/vendor/qunit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/js/tests/visual/affix-with-sticky-footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/js/tests/visual/affix.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/js/tests/visual/alert.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/js/tests/visual/button.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/js/tests/visual/carousel.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/js/tests/visual/collapse.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/js/tests/visual/dropdown.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/js/tests/visual/modal.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/js/tests/visual/popover.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/js/tests/visual/scrollspy.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/js/tests/visual/tab.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/js/tests/visual/tooltip.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/js/tooltip.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/js/transition.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/less/.csscomb.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/less/.csslintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/less/alerts.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/less/badges.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/less/bootstrap.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/less/breadcrumbs.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/less/button-groups.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/less/buttons.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/less/carousel.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/less/close.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/less/code.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/less/component-animations.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/less/dropdowns.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/less/forms.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/less/glyphicons.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/less/grid.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/less/input-groups.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/less/jumbotron.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/less/labels.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/less/list-group.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/less/media.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/less/mixins.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/less/mixins/alerts.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/less/mixins/background-variant.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/less/mixins/border-radius.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/less/mixins/buttons.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/less/mixins/center-block.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/less/mixins/clearfix.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/less/mixins/forms.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/less/mixins/gradients.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/less/mixins/grid-framework.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/less/mixins/grid.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/less/mixins/hide-text.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/less/mixins/image.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/less/mixins/labels.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/less/mixins/list-group.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/less/mixins/nav-divider.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/less/mixins/nav-vertical-align.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/less/mixins/opacity.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/less/mixins/pagination.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/less/mixins/panels.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/less/mixins/progress-bar.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/less/mixins/reset-filter.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/less/mixins/reset-text.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/less/mixins/resize.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/less/mixins/responsive-visibility.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/less/mixins/size.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/less/mixins/tab-focus.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/less/mixins/table-row.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/less/mixins/text-emphasis.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/less/mixins/text-overflow.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/less/mixins/vendor-prefixes.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/less/modals.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/less/navbar.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/less/navs.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/less/normalize.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/less/pager.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/less/pagination.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/less/panels.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/less/popovers.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/less/print.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/less/progress-bars.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/less/responsive-embed.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/less/responsive-utilities.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/less/scaffolding.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/less/tables.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/less/theme.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/less/thumbnails.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/less/tooltip.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/less/type.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/less/utilities.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/less/variables.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/less/wells.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/nuget/MyGet.ps1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/nuget/bootstrap.less.nuspec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/nuget/bootstrap.nuspec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/package.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sunbo/static/tinymce/js/tinymce/langs/zh_CN.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/119ca94b-d813-460d-81a5-44dff2ca984e.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/2480dbe6-206d-4ef3-ab6f-fc2dbc519db7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/43bf14c5-f3c2-4e90-861b-d5f852408d06.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/93249fe0-f7ae-49b3-9aad-a06776cae664.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sunbo/commands.py" beforeDir="false" afterPath="$PROJECT_DIR$/sunbo/commands.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sunbo/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/sunbo/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sunbo/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/sunbo/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sunbo/templates/detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/sunbo/templates/detail.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sunbo/templates/edit.html" beforeDir="false" afterPath="$PROJECT_DIR$/sunbo/templates/edit.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sunbo/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/sunbo/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sunbo/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/sunbo/views.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -122,22 +427,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sunbo/views.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
-              <folding>
-                <element signature="e#0#6#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sunbo/templates/detail.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+            <state relative-caret-position="95">
+              <caret line="5" selection-start-line="5" selection-end-line="10" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -145,37 +438,31 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sunbo/templates/base.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sunbo/templates/edit.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sunbo/static/js/tinymce_setup.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="339">
+              <caret line="53" selection-start-line="53" selection-end-line="53" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sunbo/templates/edit.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sunbo/templates/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="16" selection-start-line="16" selection-end-line="17" />
+            <state relative-caret-position="209">
+              <caret line="14" column="10" lean-forward="true" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
               <folding>
-                <element signature="n#style#0;n#input#0;n#form#0;n#span#2;n#li#0;n#ul#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#button#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#0;n#button#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="e#666#673#1" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -193,7 +480,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sunbo/commands.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
+            <state relative-caret-position="589">
               <caret line="34" column="12" selection-start-line="34" selection-end-line="35" />
               <folding>
                 <element signature="e#0#12#0" expanded="true" />
@@ -265,13 +552,14 @@
         <option value="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" />
         <option value="$PROJECT_DIR$/sunbo/models.py" />
         <option value="$PROJECT_DIR$/sunbo/commands.py" />
-        <option value="$PROJECT_DIR$/sunbo/templates/detail.html" />
         <option value="$PROJECT_DIR$/sunbo/static/tinymce_setup.js" />
-        <option value="$PROJECT_DIR$/sunbo/templates/base.html" />
-        <option value="$PROJECT_DIR$/sunbo/templates/edit.html" />
-        <option value="$PROJECT_DIR$/sunbo/static/js/tinymce_setup.js" />
         <option value="$PROJECT_DIR$/sunbo/views.py" />
+        <option value="$PROJECT_DIR$/sunbo/static/tinymce/js/tinymce/langs/zh_CN.js" />
+        <option value="$PROJECT_DIR$/sunbo/static/js/tinymce_setup.js" />
+        <option value="$PROJECT_DIR$/sunbo/templates/detail.html" />
+        <option value="$PROJECT_DIR$/sunbo/templates/base.html" />
         <option value="$PROJECT_DIR$/sunbo/templates/index.html" />
+        <option value="$PROJECT_DIR$/sunbo/templates/edit.html" />
       </list>
     </option>
   </component>
@@ -286,6 +574,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -308,27 +597,12 @@
               <item name="sunbo" type="b2602c69:ProjectViewProjectNode" />
               <item name="sunbo" type="462c0819:PsiDirectoryNode" />
               <item name="sunbo" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sunbo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sunbo" type="462c0819:PsiDirectoryNode" />
-              <item name="sunbo" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="tinymce" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sunbo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sunbo" type="462c0819:PsiDirectoryNode" />
-              <item name="sunbo" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -342,6 +616,7 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="database.console.LAST_STATE" value="false" />
+    <property name="editor.config.ad.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/sunbo/static" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -349,18 +624,18 @@
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/.flaskenv" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\sunbo\sunbo\static" />
+      <recent name="C:\Users\Administrator\Desktop\sunbo\sunbo\static\tinymce\js\tinymce\langs" />
+      <recent name="C:\Users\Administrator\Desktop\sunbo\sunbo\static\tinymce" />
+      <recent name="C:\Users\Administrator\Desktop\sunbo" />
+      <recent name="C:\Users\Administrator\Desktop\sunbo\sunbo" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Administrator\Desktop\sunbo" />
       <recent name="C:\Users\Administrator\Desktop\sunbo\sunbo" />
       <recent name="C:\Users\Administrator\Desktop\sunbo\static" />
       <recent name="C:\Users\Administrator\Desktop\sunbo\static\images" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Administrator\Desktop\sunbo\sunbo\static" />
-      <recent name="C:\Users\Administrator\Desktop\sunbo\sunbo\static\tinymce" />
-      <recent name="C:\Users\Administrator\Desktop\sunbo" />
-      <recent name="C:\Users\Administrator\Desktop\sunbo\sunbo" />
-      <recent name="C:\Users\Administrator\Desktop\sunbo\sunbo\templates\error" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -468,17 +743,18 @@
       <workItem from="1582781188695" duration="92000" />
       <workItem from="1582782078583" duration="2775000" />
       <workItem from="1582790013151" duration="3453000" />
-      <workItem from="1582960652693" duration="12066000" />
+      <workItem from="1582960652693" duration="16516000" />
+      <workItem from="1583038982399" duration="5565000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58205000" />
+    <option name="totallyTimeSpent" value="68220000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31744966" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32147652" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -492,7 +768,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" weight="0.32954547" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.33948863" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.1534091" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.328125" />
       <window_info anchor="bottom" id="Database Console" order="13" weight="0.24431819" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -539,12 +815,6 @@
           <line>21</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/sunbo/static/js/tinymce_setup.js</url>
-          <line>23</line>
-          <properties lambdaOrdinal="-1" />
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -554,21 +824,6 @@
     <SUITE FILE_PATH="coverage/sunbo$Flask.coverage" NAME="Flask Coverage Results" MODIFIED="1582782364529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/common.rnc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="121" column="18" selection-start-line="121" selection-start-column="18" selection-end-line="121" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/python/Lib/site-packages/werkzeug/routing.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="640" selection-start-line="640" selection-end-line="640" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_watchlist(1).py" />
     <entry file="file://$PROJECT_DIR$/listwachlist.py" />
     <entry file="file://$PROJECT_DIR$/sunbo/static/style.css" />
     <entry file="file://$PROJECT_DIR$/sunbo/templates/500.html" />
@@ -621,60 +876,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="das://93249fe0-f7ae-49b3-9aad-a06776cae664/schema/main/table/movie">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true">
-            <filter text="" />
-          </filtering>
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://93249fe0-f7ae-49b3-9aad-a06776cae664/schema/main/table/sqlite_master">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true">
-            <filter text="" />
-          </filtering>
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://93249fe0-f7ae-49b3-9aad-a06776cae664/schema/main/table/user">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true">
-            <filter text="" />
-          </filtering>
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://2480dbe6-206d-4ef3-ab6f-fc2dbc519db7/schema/main/table/movie">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true">
-            <filter text="" />
-          </filtering>
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://2480dbe6-206d-4ef3-ab6f-fc2dbc519db7/schema/main/table/user">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true">
-            <filter text="" />
-          </filtering>
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://119ca94b-d813-460d-81a5-44dff2ca984e/schema/main/table/ariticles">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true">
-            <filter text="" />
-          </filtering>
-        </state>
-      </provider>
-    </entry>
+    <entry file="das://93249fe0-f7ae-49b3-9aad-a06776cae664/schema/main/table/movie" />
+    <entry file="das://93249fe0-f7ae-49b3-9aad-a06776cae664/schema/main/table/sqlite_master" />
+    <entry file="das://93249fe0-f7ae-49b3-9aad-a06776cae664/schema/main/table/user" />
+    <entry file="das://2480dbe6-206d-4ef3-ab6f-fc2dbc519db7/schema/main/table/movie" />
+    <entry file="das://2480dbe6-206d-4ef3-ab6f-fc2dbc519db7/schema/main/table/user" />
+    <entry file="das://119ca94b-d813-460d-81a5-44dff2ca984e/schema/main/table/ariticles" />
     <entry file="file://$PROJECT_DIR$/.flaskenv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
@@ -696,24 +903,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="das://119ca94b-d813-460d-81a5-44dff2ca984e/schema/main/table/movie">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true">
-            <filter text="" />
-          </filtering>
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://119ca94b-d813-460d-81a5-44dff2ca984e/schema/main/table/user">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true">
-            <filter text="" />
-          </filtering>
-        </state>
-      </provider>
-    </entry>
+    <entry file="das://119ca94b-d813-460d-81a5-44dff2ca984e/schema/main/table/movie" />
+    <entry file="das://119ca94b-d813-460d-81a5-44dff2ca984e/schema/main/table/user" />
     <entry file="das://4be66d39-8799-4866-b9e7-57694c35cd85/schema/main/table/movie">
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
         <state>
@@ -732,15 +923,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="das://4be66d39-8799-4866-b9e7-57694c35cd85/schema/main/table/user">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true">
-            <filter text="" />
-          </filtering>
-        </state>
-      </provider>
-    </entry>
     <entry file="das://4be66d39-8799-4866-b9e7-57694c35cd85/schema/main/table/ariticles">
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
         <state>
@@ -750,13 +932,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sunbo/commands.py">
+    <entry file="file://$PROJECT_DIR$/sunbo/static/tinymce/langs/readme.md" />
+    <entry file="file://$PROJECT_DIR$/sunbo/static/tinymce/jquery-1.12.4.min.js" />
+    <entry file="file://$PROJECT_DIR$/sunbo/static/tinymce/js/tinymce/langs/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sunbo/static/tinymce_setup.js" />
+    <entry file="file://$PROJECT_DIR$/sunbo/static/jquery-1.12.4.min.js" />
+    <entry file="file://$PROJECT_DIR$/sunbo/static/tinymce/changelog.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sunbo/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="34" column="12" selection-start-line="34" selection-end-line="35" />
-          <folding>
-            <element signature="e#0#12#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="304">
+          <caret line="20" column="44" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
         </state>
       </provider>
     </entry>
@@ -767,83 +961,82 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sunbo/static/tinymce/langs/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sunbo/static/tinymce/jquery-1.12.4.min.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sunbo/static/tinymce/js/tinymce/langs/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sunbo/static/tinymce_setup.js">
+    <entry file="file://$PROJECT_DIR$/sunbo/commands.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="30" column="3" selection-start-line="30" selection-start-column="3" selection-end-line="30" selection-end-column="3" />
+        <state relative-caret-position="589">
+          <caret line="34" column="12" selection-start-line="34" selection-end-line="35" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sunbo/static/jquery-1.12.4.min.js">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="das://4be66d39-8799-4866-b9e7-57694c35cd85/schema/main/table/user">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true">
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sunbo/static/tinymce/changelog.txt">
+    <entry file="file://$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/js/tests/unit/tab.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/sunbo/static/js/tinymce_setup.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        <state relative-caret-position="208">
+          <caret line="30" column="3" selection-start-line="30" selection-start-column="3" selection-end-line="30" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sunbo/templates/detail.html">
+    <entry file="file://$PROJECT_DIR$/sunbo/static/tinymce/js/tinymce/langs/zh_CN.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+        <state relative-caret-position="19">
+          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sunbo/static/bootstrap-3.3.7/dist/js/bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sunbo/templates/base.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sunbo/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
-          <folding>
-            <element signature="e#0#6#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sunbo/templates/edit.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+        <state relative-caret-position="339">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sunbo/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" selection-start-line="16" selection-end-line="17" />
+        <state relative-caret-position="209">
+          <caret line="14" column="10" lean-forward="true" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
           <folding>
-            <element signature="n#style#0;n#input#0;n#form#0;n#span#2;n#li#0;n#ul#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#button#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="e#666#673#1" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sunbo/templates/detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" selection-start-line="5" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sunbo/templates/edit.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
         </state>
       </provider>
     </entry>
